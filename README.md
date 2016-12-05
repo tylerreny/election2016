@@ -10,9 +10,9 @@ Latino registered voter data was collected, when available, from each county's l
 
 ## New York
 
-Election data for the five boroughs was collected from the New York City Board of Elections (website)[https://enrweb.boenyc.us/]. Other county data was collected from each county election website.
+Election data for the five boroughs was collected from the New York City Board of Elections (https://enrweb.boenyc.us/). Other county data was collected from each county election website.
 
-Latino registered voter estimates for the five boroughs were provided by John Mollenkopf, Distinguished Professor of Political Science at the CUNY Graduate Center. 
+Latino registered voter estimates for the five boroughs were graciously provided by John Mollenkopf, Distinguished Professor of Political Science at the CUNY Graduate Center. 
 
 
 
