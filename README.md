@@ -1,2 +1,5 @@
 # election2016
-Election and demographic data for 2016
+
+This repository contains precinct level election returns and demographics from the 2016 election.
+
+
