@@ -1,6 +1,6 @@
 # 2016 Election
 
-This repository contains precinct level election returns and demographics for the 2016 election.
+This repository contains precinct level election returns and demographics for the 2016 and 2012 elections.
 
 ## Florida
 
@@ -10,11 +10,15 @@ Latino registered voter data was collected, when available, from each county's l
 
 ## New York
 
-(forthcoming)
+Election data for the five boroughs was collected from the New York City Board of Elections (https://enrweb.boenyc.us/). Other county data was collected from each county election website. The counties include New York, Bronx, Kings, Queens, Richmond, Cattaraugus, Chautauqua, Chenango, Erie, Livingston, Madison, Niagara, Otsego, Saratoga, Steuben, Suffolk, and Westchester.
 
-Election data for the five boroughs was collected from the New York City Board of Elections (https://enrweb.boenyc.us/). Other county data was collected from each county election website.
+Latino registered voter estimates for the five boroughs were graciously provided by John Mollenkopf, Distinguished Professor of Political Science at the CUNY Graduate Center. Other demographic estimates were gathered via Catalist race estimates.
 
-Latino registered voter estimates for the five boroughs were graciously provided by John Mollenkopf, Distinguished Professor of Political Science at the CUNY Graduate Center. Other demographic estimates were gather via Catalist.
+## Illinois
+
+Election data for 2012 and 2016 elections were gathered from each county website.
+
+Demographic estimates were obtained through Catalist.
 
 
 
