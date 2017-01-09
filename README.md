@@ -16,7 +16,7 @@ Latino registered voter estimates for the five boroughs were graciously provided
 
 ## Illinois
 
-Election data for 2012 and 2016 elections were gathered from each county website.
+Election data for 2012 and 2016 elections were gathered from each county website. Data was collected from Bloomington, Champaign, Chicago (Cook), Coles, Cook (Suburban), Dupage, Jackson, Kane, Kendall, Lake, Macoupin, Madison, McHenry, Rock Island, St Clair, Tazewell, and Will counties.
 
 Demographic estimates were obtained through Catalist.
 
